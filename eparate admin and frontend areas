@@ -1,0 +1,10 @@
+ public/admin/index.php                  |   5 [31m-----[m
+ public/uploads/products/laptop-b-1.jpg  | Bin [31m0[m -> [32m20564[m bytes
+ public/uploads/products/laptop-b-1.webp | Bin [31m185592[m -> [32m0[m bytes
+ public/uploads/products/mouse-c-1.jpeg  | Bin [31m627453[m -> [32m0[m bytes
+ public/uploads/products/mouse-c-1.jpg   | Bin [31m0[m -> [32m23398[m bytes
+ public/uploads/products/phone-a-1.jpg   | Bin [31m0[m -> [32m1515087[m bytes
+ public/uploads/products/phone-a-1.png   | Bin [31m715405[m -> [32m0[m bytes
+ public/uploads/products/phone-a-2.jpg   | Bin [31m0[m -> [32m31516[m bytes
+ public/uploads/products/phone-a-2.png   | Bin [31m277222[m -> [32m0[m bytes
+ 9 files changed, 5 deletions(-)
